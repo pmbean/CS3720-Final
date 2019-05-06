@@ -115,7 +115,6 @@ struct DayWeather: Codable {
     let sunsetTime: Double
     let moonPhase: Double
     let precipProbability: Double
-    let precipType: String
     let temperatureHigh: Double
     let temperatureHighTime: Double
     let temperatureLow: Double
